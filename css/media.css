@@ -1,0 +1,545 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*header start*/
+.c_logo{
+    font-size: 23px;
+}
+.custom_toggler {
+font-size: 16px;
+}
+.c_drdmenu[data-bs-popper] {
+top: 43px;
+left: 11px;
+}
+.c_drdmenu {
+min-width: 245px;
+}
+.c_button{
+        padding: 6px 0;
+}
+/*header end*/
+/*slider start */
+.slider{
+padding-top: 50px;
+}
+.s_text h1{
+margin-bottom: 25px;
+font-size: 25px;
+}
+.s_text p {
+    margin: 0 0px 25px 0;
+}
+.c_s_btn {
+margin-bottom: 85px;
+}
+.ccn {
+right: 180px;
+}
+/*slider end */
+/*service start*/
+.service{
+padding-bottom: 0;
+}
+.straight {
+    margin-bottom: 14px;
+    height: 29px;
+}
+.c_title h1 {
+margin-bottom: 0;
+}
+.mtb {
+margin-top: 20px;
+margin-bottom: 15px;
+}
+.s_service {
+margin:  20px;
+    padding: 70px 10px 20px;
+}
+.s_service p {
+margin: 0 0px 0;
+    padding: 15px 0px 15px;
+}
+.s_service h2 {
+margin-top: 15px;
+}
+.hifen {
+margin: 0 0;
+}
+/*service end*/
+/*about start*/
+.about {
+padding: 30px 0 45px 0;
+}
+.about_text {
+margin-top: 40px;
+text-align: center;
+}
+.about_text h1 {
+margin-bottom: 15px;
+}
+.about_text p {
+    margin-bottom: 10px;
+}
+.custom_a_btn {
+padding-top: 10px;
+    width: 136px;
+    height: 43px;
+font-size: 15px;
+}
+/*about end*/
+/*work start */
+.work {
+    padding-bottom: 40px;
+}
+.work_menu ul {
+    margin: 8px 0;
+}
+.overlay_icon_bg span i {
+    top: 19%;
+    left: 32%;
+}
+/*work end */
+/*why choose nipro start*/
+.choose_nipro {
+padding-bottom: 30px;
+}
+.s_choose {
+        padding-top: 25px;
+    padding-bottom: 20px;
+text-align: center;
+}
+.c_title h1 {
+    font-size: 22px;
+}
+.s_choose h2 {
+    margin: 5px 0 0 0;
+}
+.s_choose p {
+    margin: 0 60px;
+}
+/*why choose nipro end*/
+/*who work with us start*/
+.work_p {
+padding-bottom: 20px;
+}
+.w_person {
+    argin-top: 25px;
+margin-bottom: 20px;
+}
+.social_i {
+top: 45px;
+}
+/*who work with us end*/
+/*best pricing start*/
+.pricing {
+padding-bottom: 40px;
+}
+.price_box {
+margin-top: 35px;
+}
+.price-t {
+    margin-bottom: 15px;
+}
+.price_box a {
+    width: 145px;
+    height: 37px;
+}
+/*best pricing end*/
+/*responsive nipro start*/
+.r_text h1 {
+    text-align: center;
+}
+.b_button a {
+    margin: 0 auto;
+    width: 140px;
+    height: 40px;
+}
+.responsive {
+    padding: 20px 0;
+}
+/*responsive nipro end*/
+/*testimonial start start*/
+.testimonial {
+    padding-top: 40px;
+}
+.t_carousel {
+    padding: 25px 10px;
+}
+.t_img {
+    width: 60%;
+}
+.t_text {
+    margin-top: 25px;
+}
+.t_icon {
+    transform: rotate(0);
+}
+/*testimonial start end*/
+/*contact start start*/
+.contact {
+padding-top: 50px;
+padding-bottom: 40px;
+}
+.c_us h1 {
+margin-left: 63px;
+padding-bottom: 35px;
+font-size: 25px;
+}
+.c_form a {
+    width: 133px;
+}
+/*contact start end*/
+/*footer start*/
+.footer_top {
+padding-bottom: 20px;
+}
+.c_title p{
+margin: 0 0 24px;
+}
+.f_s_icon ul li {
+    margin-left: 10px;
+    margin-bottom: 12px;
+}
+.f_s_icon ul li a {
+    width: 40px;
+    height: 40px;
+}
+.f_s_icon ul li a i{
+    font-size: 20px;
+}
+.footer_bottom {
+padding: 25px 0;
+text-align: center;
+}
+.f_b_t{
+    padding: 0 15px;
+}
+/*footer end*/
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.custom_toggler {
+font-size: 18px;
+}
+.c_drdmenu[data-bs-popper] {
+top: -7px;
+left: 67px;
+}
+.c_drdmenu {
+min-width: 315px;
+}
+/*header end*/
+/*slider start */
+.slider{
+padding-top: 65px;
+}
+.s_text h1{
+margin-bottom: 35px;
+font-size: 40px;
+}
+.s_text p {
+margin:0 55px 35px 0;
+}
+.c_s_btn {
+margin-bottom: 85px;
+}
+.ccn {
+right: 390px;
+}
+/*slider end */
+/*service start*/
+.service{
+padding-bottom: 25px;
+}
+.c_title h1 {
+margin-bottom: 25px;
+}
+.mtb {
+margin-top: 20px;
+margin-bottom: 15px;
+}
+.s_service {
+margin:  20px;
+}
+.s_service p {
+margin: 0 108px 0;
+    padding: 15px 10px 15px;
+}
+.s_service h2 {
+margin-top: 25px;
+}
+.hifen {
+margin: 7px 0;
+}
+/*service end*/
+/*about start*/
+.about {
+padding: 30px 0 70px 0;
+}
+.about_text {
+margin-top: 40px;
+text-align: center;
+}
+.about_text h1 {
+margin-bottom: 15px;
+}
+.about_text p {
+    margin-bottom: 10px;
+}
+.custom_a_btn {
+padding-top: 11px;
+width: 147px;
+height: 46px;
+font-size: 15px;
+}
+/*about end*/
+/*work start */
+.work {
+    padding-bottom: 60px;
+}
+.overlay_icon_bg span i {
+    top: 19%;
+    left: 32%;
+}
+/*work end */
+/*why choose nipro start*/
+.choose_nipro {
+padding-bottom: 30px;
+}
+.s_choose {
+    padding-bottom: 25px;
+text-align: center;
+}
+.c_title h1 {
+    font-size: 25px;
+}
+.s_choose h2 {
+    margin: 5px 0 0 0;
+}
+.s_choose p {
+    margin: 0 125px;
+}
+/*why choose nipro end*/
+/*who work with us start*/
+.work_p {
+padding-bottom: 30px;
+}
+.w_person {
+margin-bottom: 20px;
+}
+.social_i {
+top: 45px;
+}
+/*who work with us end*/
+/*best pricing start*/
+.pricing {
+padding-bottom: 50px;
+}
+.price_box {
+margin-top: 45px;
+}
+/*best pricing end*/
+/*responsive nipro start*/
+.b_button a {
+    width: 140px;
+    height: 45px;
+}
+.responsive {
+    padding: 20px 0;
+}
+/*responsive nipro end*/
+/*testimonial start start*/
+.testimonial {
+    padding-top: 50px;
+}
+.t_img {
+    width: 60%;
+}
+.t_text {
+    margin-top: 25px;
+}
+.t_icon {
+    transform: rotate(0);
+}
+.t_btn{
+        margin-top: 5px;
+        padding: 0 100px;
+}
+.t_ccp, .t_ccn {
+margin: 0 11px;
+display: inline-block;
+}
+.t_ccp span{
+margin-top: 0;
+}
+.t_ccn span {
+    margin-top: 10px;
+    margin-left: 150px;
+}
+/*testimonial start end*/
+/*contact start start*/
+.contact {
+padding-top: 65px;
+padding-bottom: 65px;
+}
+.c_us h1 {
+margin-left: 168px;
+padding-bottom: 50px;
+}
+.c_form a {
+    width: 133px;
+}
+/*contact start end*/
+/*footer start*/
+.footer_top {
+padding-bottom: 35px;
+}
+.c_title p{
+margin: 0 80px 24px;
+}
+.f_s_icon ul li a {
+    width: 45px;
+    height: 45px;
+}
+.footer_bottom {
+padding: 25px 0;
+text-align: center;
+}
+/*footer end*/
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.c_drdmenu[data-bs-popper] {
+top: -7px;
+left: 67px;
+}
+/*header end*/
+/*slider start */
+.slider{
+padding-top: 100px;
+}
+.s_text p {
+margin:0 80px 35px 0;
+}
+.c_s_btn {
+margin-bottom: 130px;
+}
+/*slider end */
+/*service start*/
+.mtb {
+margin-top: 20px;
+margin-bottom: 60px;
+}
+.s_service {
+margin: 35px 0;
+}
+.s_service p {
+margin: 0 210px 16px;
+padding: 20px 10px 30px;
+}
+.s_service h2 {
+margin-top: 25px;
+}
+/*service end*/
+/*about start*/
+.about {
+padding: 30px 0 100px 0;
+}
+.about_text h1 {
+margin-bottom: 15px;
+}
+.about_text p {
+margin-bottom: 10px;
+}
+/*about end*/
+/*why choose nipro start*/
+.choose_nipro {
+padding-bottom: 40px;
+}
+.s_choose {
+text-align: center;
+}
+/*why choose nipro end*/
+/*who work with us start*/
+.work_p {
+padding-bottom: 65px;
+}
+.w_person {
+margin-bottom: 20px;
+}
+.social_i {
+top: 45px;
+}
+/*who work with us end*/
+/*best pricing start*/
+.pricing {
+padding-bottom: 80px;
+}
+.price_box {
+margin-top: 45px;
+}
+/*best pricing end*/
+/*testimonial start start*/
+.t_ccp, .t_ccn {
+margin: 0 11px;
+}
+.t_ccp span{
+margin-top: 100px;
+}
+.t_ccn span{
+margin-top: 265px;
+}
+/*testimonial start end*/
+/*contact start start*/
+.contact {
+padding-top: 65px;
+padding-bottom: 65px;
+}
+.c_us h1 {
+margin-left: 245px;
+padding-bottom: 50px;
+}
+/*contact start end*/
+/*footer start*/
+.footer_top {
+padding-bottom: 35px;
+}
+.c_title p{
+margin: 0 80px 24px;
+}
+.footer_bottom {
+padding: 25px 0;
+}
+/*footer end*/
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*slider start */
+.ccn {
+right: 415px;
+}
+/*slider end */
+/*why choose nipro strat*/
+.s_choose h2 {
+margin: 12px 0 0 15px;
+}
+/*why choose nipro end*/
+/*best pricing start */
+.price_box a {
+width: 155px;
+}
+/*best pricing end */
+/*testmonial start */
+.t_ccp, .t_ccn {
+margin: 0 20px;
+}
+/*testmonial end */
+}
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+}
